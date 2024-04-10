@@ -66,7 +66,7 @@ Neste relatório, vou compartilhar minha experiência ao explorar a integração
 #### Configuração terraform
  <img src="./assets/configtyp.png"> </img>
 
- <img src="./assets/terraform.png"> </img>
+ <img src="./assets/Applypng.png"> </img>
   <img src="./assets/Terra.png"> </img>
  #### Github Actions workflow
   <img src="./assets/apply.png"> </img>
